@@ -13,7 +13,7 @@
 # limitations under the License.
 # ==============================================================================
 
-r"""A simple demonstration of running VGGish in training mode.
+"""A simple demonstration of running VGGish in training mode.
 
 This is intended as a toy example that demonstrates how to use the VGGish model
 definition within a larger model that adds more layers on top, and then train
